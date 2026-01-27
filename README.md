@@ -3,7 +3,7 @@
 ## I'm a beginner QA engeneer
 
 ### Resume
-![HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67)
+![HH]([HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67))
 
 
 ### Languages and Tools
@@ -21,3 +21,6 @@
 
 
 ### My contacts
+
+
+[HH]: https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67
