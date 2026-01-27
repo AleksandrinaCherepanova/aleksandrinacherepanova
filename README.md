@@ -18,9 +18,8 @@
 ![SELENIUM](https://img.shields.io/badge/-SELENIUM-cd8043?style=for-the-badge&logo=SELENIUM&logoColor=dac9b7)
 
 ### Certificates
-
+ [Stepik](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Stepik.png)
 
 ### My contacts
 
 
-[HH]: https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67
