@@ -5,11 +5,15 @@
 ### Resume
 [HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67)
 
+### - Test documentation
+
+### - SQL queries
+
 
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-579aa6?style=for-the-badge&logo=JIRA&logoColor=e7b554)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-579aa6?style=for-the-badge&logo=POSTMAN&logoColor=e7b554)
-![SQL](https://img.shields.io/badge/-SQL-579aa6?style=for-the-badge&logo=sql&logoColor=e7b554)
+![SQL](https://img.shields.io/badge/-SQL-579aa6?style=for-the-badge&logo=mysql&logoColor=e7b554)
 ![GIT](https://img.shields.io/badge/-GIT-579aa6?style=for-the-badge&logo=GIT&logoColor=e7b554)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-579aa6?style=for-the-badge&logo=GITHUB&logoColor=e7b554)
 ![JSON](https://img.shields.io/badge/-JSON-cd8043?style=for-the-badge&logo=JSON&logoColor=dac9b7)

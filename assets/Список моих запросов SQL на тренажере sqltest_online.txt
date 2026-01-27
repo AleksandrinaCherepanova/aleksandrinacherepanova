@@ -1,0 +1,38 @@
+1. Выведи имя и фамилию всех сотрудников с возрастом > 24 лет в Москве
+SELECT * FROM staff WHERE City = 'Moscow' AND age > 24;
+
+2. Выведи имя и фамилию всех сотрудников, отсортированных от младших к старшим
+SELECT * FROM staff ORDER BY age ASC;
+
+3. Выведи возраст всех сотрудников с профессией qa_engineer
+SELECT age FROM staff JOIN positions ON staff.position_id = positions.id WHERE position_name = 'qa_engineer';
+
+4. Выведи имя и фамилию всех frontend_dev с лимитом строк в 20
+SELECT staff.name, staff.surname FROM staff LEFT JOIN positions ON staff.position_id = positions.id WHERE positions.position_name = 'frontend_dev' LIMIT 20;
+
+5. Выведи какой компьютер у Анастасии Морозовой (нужно использовать двойной Join)
+SESELECT computer_name FROM computers JOIN positions ON computers.id = positions.computer_id JOIN staff ON positions.id = staff.position_id WHERE staff.name = 'anastasia' AND staff.surname = 'morozova';
+
+6. Сколько в компании всего сотрудников работает в Москве?
+SELECT COUNT(city) FROM staff WHERE city = 'Moscow';
+
+7. Какая зарплата у каждого сотрудника. В результирующей таблице нужно вывести два столбика — имя и зарплата
+SELECT staff.name, positions.salary FROM staff JOIN positions ON staff.position_id = positions.id;
+
+8. Какая общая зарплата всех сотрудников, которые работают в Москве?
+SELECT SUM(positions.salary) FROM positions LEFT JOIN staff ON positions.id = staff.position_id WHERE staff.city = 'Moscow';
+
+9. Выведи суммы зарплат, разбитые по городам. 
+SELECT staff.city, SUM(positions.salary) FROM positions INNER JOIN staff ON positions.id = staff.position_id GROUP BY staff.city;
+
+10. Выведи список уникальных городов, где есть сотрудники.
+SELECT DISTINCT city FROM staff;
+
+11. Выведи список уникальных городов, где в названии есть буква k. 
+SELECT DISTINCT city FROM staff WHERE city LIKE '%k%';
+
+12. Выведи названия должностей, у которых зарплата между 1500 и 2200, используя оператор between
+SELECT position_name, salary FROM positions WHERE salary BETWEEN 1500 AND 2200;
+
+13. Выведи Имя и Фамилию каждого сотрудника вместе с их Должностью. Важно: есть две должности, на которых никто не работает. Нужно их тоже получить
+SELECT staff.name, staff.surname, positions.position_name FROM staff RIGHT JOIN positions ON staff.position_id = positions.id;
