@@ -25,6 +25,6 @@
  [Stepik](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Stepik.png)
 
 ### My contacts
-![GMAIL](https://img.shields.io/badge/-Gmail-d11c1c?logo=Gmail&logoColor=f7f7f8)
-![TELEGRAM](https://img.shields.io/badge/-Telegram-0a86d4?logo=Telegram&logoColor=f7f7f8)
-![VK](https://img.shields.io/badge/-VKontakte-2b2398?logo=VK&logoColor=f7f7f8)
+[![GMAIL](https://img.shields.io/badge/-Gmail-d11c1c?logo=Gmail&logoColor=f7f7f8)](aleksanrina.dance@gmail.com)
+[![TELEGRAM](https://img.shields.io/badge/-Telegram-0a86d4?logo=Telegram&logoColor=f7f7f8)](https://t.me/Aleksandrina_aleks)
+[![VK](https://img.shields.io/badge/-VKontakte-2b2398?logo=VK&logoColor=f7f7f8)](https://vk.ru/aleksandrina_aleks)
