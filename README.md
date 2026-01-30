@@ -6,6 +6,8 @@
 [HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67)
 
 ### - Test documentation
+[Bug reports Stepik](https://docs.google.com/spreadsheets/d/1V33kuqgaoxLwv8bPRg3Yb4BivCvp7hN7/edit?usp=sharing&ouid=115799956823442898094&rtpof=true&sd=true)
+
 
 ### - SQL queries
 [Sample queries](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%BE%D0%B8%D1%85%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20SQL%20%D0%BD%D0%B0%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%B5%20sqltest_online.txt)
