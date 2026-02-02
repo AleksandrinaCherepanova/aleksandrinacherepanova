@@ -7,7 +7,9 @@
 
 ### - Test documentation
 
-[Checklist Stepik](https://docs.google.com/spreadsheets/d/1J9s_JaZOGga-c-8F69nffuhmNcFHnR8O/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
+[Checklist](https://docs.google.com/spreadsheets/d/1J9s_JaZOGga-c-8F69nffuhmNcFHnR8O/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
+
+[Test cases](https://docs.google.com/spreadsheets/d/1Ja1YyDUgZEFU4SbYMOI3gdck_bd-O2Ya/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
 
 [Bug reports Stepik](https://docs.google.com/spreadsheets/d/1V33kuqgaoxLwv8bPRg3Yb4BivCvp7hN7/edit?usp=sharing&ouid=115799956823442898094&rtpof=true&sd=true)
 
