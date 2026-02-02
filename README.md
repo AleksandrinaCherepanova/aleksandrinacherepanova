@@ -6,6 +6,9 @@
 [HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67)
 
 ### - Test documentation
+
+[Checklist Stepik](https://docs.google.com/spreadsheets/d/1J9s_JaZOGga-c-8F69nffuhmNcFHnR8O/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
+
 [Bug reports Stepik](https://docs.google.com/spreadsheets/d/1V33kuqgaoxLwv8bPRg3Yb4BivCvp7hN7/edit?usp=sharing&ouid=115799956823442898094&rtpof=true&sd=true)
 
 [Bug list Sobasednik](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Bug_repors_Sobasednik.txt)
