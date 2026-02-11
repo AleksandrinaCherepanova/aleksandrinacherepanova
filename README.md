@@ -36,7 +36,7 @@
 ### Certificates
  [Stepik](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Stepik.png)
 
-[Yandex.Direct]()
+[Yandex.Direct](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Yandex_direct.png)
 
 ### My contacts
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-0a86d4?logo=Telegram&logoColor=f7f7f8)](https://t.me/Aleksandrina_aleks)
