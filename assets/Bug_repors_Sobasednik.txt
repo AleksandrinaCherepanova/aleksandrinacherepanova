@@ -1,3 +1,6 @@
+Список багов составленный в процессе тестирования сайта Собаседник https://guru.qahacking.ru/
+(Тренажер-сайт для тестов)   
+
 Хедер
 1. При попытке подписаться, выскакивает ошибка "No e-mail addresses (To) have been configured. Please set them up in the module's parameters, under the 'Email Options' tab."
 2. В форме отправки вопроса нет кнопки для отправки
