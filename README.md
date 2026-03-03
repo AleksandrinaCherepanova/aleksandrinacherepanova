@@ -31,7 +31,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-cd8043?style=for-the-badge&logo=JSON&logoColor=dac9b7)
 ![HTML](https://img.shields.io/badge/-HTML-cd8043?style=for-the-badge&logo=HTML&logoColor=dac9b7)
 ![CSS](https://img.shields.io/badge/-CSS-cd8043?style=for-the-badge&logo=CSS&logoColor=dac9b7)
-![SELENIUM](https://img.shields.io/badge/-SELENIUM-cd8043?style=for-the-badge&logo=SELENIUM&logoColor=dac9b7)
+![TestRail](https://img.shields.io/badge/-TestRail-cd8043?style=for-the-badge&logo=TestRail&logoColor=dac9b7)
 
 ### Certificates
  [Stepik](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Stepik.png)
