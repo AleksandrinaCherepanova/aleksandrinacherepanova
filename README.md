@@ -11,7 +11,9 @@
 
 [Test cases](https://docs.google.com/spreadsheets/d/1Ja1YyDUgZEFU4SbYMOI3gdck_bd-O2Ya/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
 
-[Bug reports](https://docs.google.com/spreadsheets/d/1V33kuqgaoxLwv8bPRg3Yb4BivCvp7hN7/edit?usp=sharing&ouid=115799956823442898094&rtpof=true&sd=true)
+[Bug reports(RU)](https://docs.google.com/spreadsheets/d/1V33kuqgaoxLwv8bPRg3Yb4BivCvp7hN7/edit?usp=sharing&ouid=115799956823442898094&rtpof=true&sd=true)
+
+[Bug reports(EN)](https://docs.google.com/spreadsheets/d/1BKenMKt1C9r9BDDnsd_rywGacEpwm-SMrX3LVzDdkdw/edit?usp=sharing)
 
 [Bug list](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Bug_repors_Sobasednik.txt)
 
