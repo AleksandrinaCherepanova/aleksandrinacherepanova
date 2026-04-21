@@ -20,7 +20,6 @@
 ### - REST API
 [Collection](https://github.com/AleksandrinaCherepanova/REST-API/blob/main/Olympus.postman_collection.json)
 
-
 ### - SQL queries
 [Sample queries](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%BE%D0%B8%D1%85%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20SQL%20%D0%BD%D0%B0%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%B5%20sqltest_online.txt)
 
@@ -41,8 +40,6 @@
 [Intensive "Web Testing Program"](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Cherepanova%20Aleksandrina_000524.png)
 
  [REST API](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/REST%20API.png)
-
- [Yandex.Direct](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Yandex_direct.png)
 
 ### My contacts
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-0a86d4?logo=Telegram&logoColor=f7f7f8)](https://t.me/Aleksandrina_aleks)
