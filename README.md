@@ -3,7 +3,7 @@
 ## I'm a beginner QA engineer
 
 ### Resume
-[HH](https://spb.hh.ru/resume/1f878a6dff0ff5b98e0039ed1f78366e4d6a67)
+[HH](https://drive.google.com/file/d/1wR8j3HX6nElGzXhjAm38L8KClh-kVAfa/view?usp=drive_link)
 
 ### - Test documentation
 
