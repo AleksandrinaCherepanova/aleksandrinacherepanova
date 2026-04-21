@@ -15,8 +15,6 @@
 
 [Bug reports(EN)](https://docs.google.com/spreadsheets/d/1BKenMKt1C9r9BDDnsd_rywGacEpwm-SMrX3LVzDdkdw/edit?usp=sharing)
 
-[Bug list](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Bug_repors_Sobasednik.txt)
-
 ### - Test design
 
 [Equivalence](https://docs.google.com/spreadsheets/d/1ddRfMQULukIQ8vCyblhZpuI6ZkQUfrDx/edit?usp=drive_link&ouid=115799956823442898094&rtpof=true&sd=true)
