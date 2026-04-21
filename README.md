@@ -36,6 +36,8 @@
 ### Certificates
  [Software Testing](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E%20%D1%81%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5%D0%BC.png)
 
+[Intensive "Web Testing Program"](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Cherepanova%20Aleksandrina_000524.png)
+
  [REST API](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/REST%20API.png)
 
  [Yandex.Direct](https://github.com/AleksandrinaCherepanova/aleksandrinacherepanova/blob/main/assets/Yandex_direct.png)
